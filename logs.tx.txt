@@ -1,0 +1,30 @@
+User@DESKTOP-9KF2L2J MINGW64 ~/SI_lab1_216009_2023 (master)
+$ git log
+commit 52f2b6f202cb48bf6e576f8b349dc9a34c7fd04d (HEAD -> master)
+Author: MarkElena84 <106515226+MarkElena84@users.noreply.github.com>
+Date:   Thu Apr 6 16:50:03 2023 +0200
+
+    Add file
+
+commit 6c896c55039087d5590b1c30e409fd93512e54ed
+Author: MarkElena84 <106515226+MarkElena84@users.noreply.github.com>
+Date:   Thu Apr 6 16:42:07 2023 +0200
+
+    Add file
+
+commit fc671e1dd9b6e8e6c04b74f92ba0b3d35bdb205f (origin/master, bug3)
+Author: MarkElena84 <106515226+MarkElena84@users.noreply.github.com>
+Date:   Thu Mar 30 12:38:36 2023 +0200
+
+    Fix method sum EvenNumbers
+
+commit 0b29e5d576dfbd271cf098b1cc548cfd54aa10b8
+Merge: e0f69e7 14e20f7
+Author: MarkElena84 <106515226+MarkElena84@users.noreply.github.com>
+Date:   Thu Mar 30 12:40:53 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 14e20f72976651b0c89b1845015bc94ce23462a3 (bug2)
+Author: MarkElena84 <106515226+MarkElena84@users.noreply.github.com>
+Date:   Thu Mar 30 12:37:29 2023 +0200
